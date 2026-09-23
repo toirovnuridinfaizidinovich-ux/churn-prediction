@@ -1,0 +1,7 @@
+__pycache__/
+.mypy_cache/
+*.pyc
+
+Data/incoming_with_predictions.csv
+
+.streamlit/
