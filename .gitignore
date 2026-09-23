@@ -2,6 +2,7 @@
 __pycache__/
 .mypy_cache/
 *.pyc
+.pytest_cache/
 
 # Local data and generated predictions
 data/
