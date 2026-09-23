@@ -1,7 +1,12 @@
+# Python cache
 __pycache__/
 .mypy_cache/
 *.pyc
 
-Data/incoming_with_predictions.csv
+# Local data and generated predictions
+data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+data/incoming.csv
+data/incoming_with_predictions.csv
 
+# Streamlit local settings
 .streamlit/
